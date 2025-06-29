@@ -10,10 +10,9 @@
 
 ### 💫 About Me
 
-💻 Creative Frontend Engineer turning ideas into responsive designs
+💻 Creative Frontend Engineer turning ideas into responsive designs  
 🧠 Curious **Prompt Engineer** exploring LLMs & generative AI  
 🤖 Building with **Python, ML, and cool AI projects**  
-🎓 Final year B.Tech in **Information Technology**  
 🎯 Aim: To build apps that are **smart, responsive, and impactful**
 
 ---
