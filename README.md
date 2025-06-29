@@ -26,7 +26,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,jupyter,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode,canva" />
 </p>
 
 ---
@@ -34,38 +34,22 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini-321&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswinipatha&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini-321&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinipatha&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswini-321&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipatha&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧠 Featured Projects
 
-#### 🔍 [Thyroid Disease Prediction App](https://github.com/Tejaswini-321/thyroid-predictor)
-Tkinter + SVM + PCA + form-based input UI  
-💡 Includes dietary and medication suggestions  
-🧬 AI meets healthcare — with a friendly GUI
-
-#### 🌐 [Personal Portfolio Website](https://your-portfolio-url.com)
-React + TailwindCSS + Dark mode  
-💖 Smooth transitions and section-based animations
-
-#### 📚 [AI EdTech Tool (Inspired by *Anaganaga*)](https://github.com/Tejaswini-321/anaganaga-edtech)
-💭 Turns lessons and code into **interactive stories**  
-Perfect for **visual learners and school students**
-
----
 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tejaswini-it/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tejaswini@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tejaswini-patha-50442a25b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tejaswinipatha333@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
