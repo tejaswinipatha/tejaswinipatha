@@ -3,16 +3,16 @@
 
 <!-- Sub-heading GIF -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d75486b-0f2b-40cc-867e-5c777f040d5b.gif" width="250" alt="AI Girl Coding" />
+  <img src="https://github.com/user-attachments/assets/3d75486b-0f2b-40cc-867e-5c777f040d5b" width="250" alt="AI Girl Coding" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-💻 Creative Frontend Engineer turning ideas into responsive designs
-🧠 Curious **Prompt Engineer** exploring LLMs & generative AI  
-🤖 Building with **Python, ML, and cool AI projects**  
+💻 Creative Frontend Engineer turning ideas into responsive designs<br/>
+🧠 Curious **Prompt Engineer** exploring LLMs & generative AI<br/>
+🤖 Building with **Python, ML, and cool AI projects** 
 🎯 Aim: To build apps that are **smart, responsive, and impactful**
 
 ---
