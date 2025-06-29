@@ -3,12 +3,7 @@
 
 <!-- Sub-heading GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250" alt="AI Girl Coding" />
-</p>
-
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejaswini-321&label=Profile%20Views&color=F761A1&style=flat" alt="Profile Views" />
+  <img src="https://github.com/user-attachments/assets/3d75486b-0f2b-40cc-867e-5c777f040d5b" width="250" alt="AI Girl Coding" />
 </p>
 
 ---
@@ -30,20 +25,6 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswinipatha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinipatha&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipatha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-
 
 ### 📫 Let's Connect!
 
