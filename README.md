@@ -12,7 +12,7 @@
 
 💻 Creative Frontend Engineer turning ideas into responsive designs<br/>
 🧠 Curious **Prompt Engineer** exploring LLMs & generative AI<br/>
-🤖 Building with **Python, ML, and cool AI projects** 
+🤖 Building with **Python, ML, and cool AI projects**<br/>
 🎯 Aim: To build apps that are **smart, responsive, and impactful**
 
 ---
