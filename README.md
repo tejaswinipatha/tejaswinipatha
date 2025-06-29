@@ -1,4 +1,4 @@
-"<!-- Intro -->
+<!-- Intro -->
 <h1 align="center">Hey there! 👋 I'm Tejaswini</h1>
 
 <!-- Sub-heading GIF -->
