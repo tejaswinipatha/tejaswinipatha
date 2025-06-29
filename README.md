@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-🎨 Passionate **Frontend Developer** crafting clean UIs  
+💻 Creative Frontend Engineer turning ideas into responsive designs
 🧠 Curious **Prompt Engineer** exploring LLMs & generative AI  
 🤖 Building with **Python, ML, and cool AI projects**  
 🎓 Final year B.Tech in **Information Technology**  
